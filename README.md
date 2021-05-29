@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://swahimnamdev.netlify.app](https://swahimnamdev.netlify.app)
 
-- 💬 Ask me about **Node, Express, JS**
+- 💬 Ask me about **Node, Express, JS, React**
 
 - 📫 How to reach me **swahimn@gmail.com**
 
