@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swahim&label=Profile%20views&color=0e75b6&style=flat" alt="swahim" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://swahimnamdev.netlify.app](https://swahimnamdev.netlify.app)
 
