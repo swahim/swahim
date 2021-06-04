@@ -17,6 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swahim&show_icons=true&locale=en&layout=compact" alt="swahim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swahim&show_icons=true&locale=en" alt="swahim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swahim&" alt="swahim" /></p>
